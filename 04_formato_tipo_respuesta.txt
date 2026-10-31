@@ -1,0 +1,14 @@
+FORMATO TIPO DE COMUNICACIÓN JURÍDICA - RESPUESTA A SOLICITUD DE SUCESIÓN (documento simulado, con fines demostrativos)
+
+Estructura sugerida para las comunicaciones dirigidas a herederos, notarías o despachos judiciales:
+
+1. Encabezado con referencia de radicado y fecha de la solicitud.
+2. Saludo formal y referencia expresa a la solicitud recibida.
+3. Cuerpo de la respuesta, estructurado así:
+   a. Fundamento normativo aplicable (leyes, artículos o circulares pertinentes).
+   b. Información puntual solicitada, dentro de los límites permitidos por la normatividad de protección de datos.
+   c. Requisitos adicionales, si el solicitante no ha acreditado completamente su calidad de heredero.
+4. Indicación de los canales de contacto para ampliar la información o realizar seguimiento.
+5. Firma del área jurídica responsable.
+
+Nota: este formato es de carácter simulado y se construyó únicamente como referencia estructural para el desarrollo del prototipo, dado que no se tuvo acceso a formatos reales de una entidad financiera específica.
